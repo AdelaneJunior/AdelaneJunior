@@ -3,7 +3,6 @@
 <hr>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AdelaneJunior&show_icons=true&theme=aura&rank_icon=github">
 
-
 <h3 align="left">Linguagens que tenho experiencias: </h3>
 <div style="display: inline_block"></br>
 <p align="left"> 
@@ -17,9 +16,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 </p>
 </div> 
-</br>
-
-<h3 align="left">Entre em contato:</h3>
+<h3 align="left">Entre em contato comigo:</h3>
 <a href="https://linkedin.com/in/adelane-junior-19612623a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adelane junior" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adelane.junior@aluno.ueg.br"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40"/></a>
 <p>
