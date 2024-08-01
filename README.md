@@ -18,5 +18,3 @@
   <a href="https://linkedin.com/in/adelane-junior-19612623a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adelane junior" height="30" width="40" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adelane.junior@aluno.ueg.br"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40"/></a>
 </div>
-
-<img align='right' src="https://github-readme-streak-stats.herokuapp.com/?user=AdelaneJunior&theme=aura" alt="mystreak"/>
