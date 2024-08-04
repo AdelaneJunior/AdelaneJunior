@@ -1,5 +1,7 @@
 <p aling="center">
-  <a href="https://github.com/AdelaneJunior"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=45&duration=2001&pause=1000&color=6549DAF6&center=true&vCenter=true&multiline=true&width=440&height=130&lines=Adelane+Junior;Back-End+Developer" alt="Adelane Junior" /></a>
+  <a href="https://github.com/AdelaneJunior">
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=45&duration=2001&pause=1000&color=6549DAF6&center=true&vCenter=true&multiline=true&width=440&height=130&lines=Adelane+Junior;Back-End+Developer" alt="Adelane Junior"/>
+  </a>
 </p>
 
 ------------------
@@ -18,4 +20,3 @@
   <a href="https://linkedin.com/in/adelane-junior-19612623a/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adelane.junior@aluno.ueg.br"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
-
