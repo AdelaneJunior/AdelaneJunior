@@ -18,5 +18,4 @@
 <p align="left">
   <a href="https://github.com/AdelaneJunior"><img src="https://skillicons.dev/icons?i=github"/></a>
   <a href="https://www.linkedin.com/in/adelane-junior/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adelane.junior@aluno.ueg.br"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
